@@ -1,3 +1,18 @@
+$navbar-default-bg: #f3eef3;
+
+#logo {
+    float: left;
+    font-size: 1.7em;
+    //color: #fff;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    font-weight: bold;
+}
+
+.center{
+    text-align: center;
+}
+
 // "bootstrap-sprockets" must be imported before "bootstrap" and "bootstrap/variables"
 @import "bootstrap-sprockets";
 @import "bootstrap";
